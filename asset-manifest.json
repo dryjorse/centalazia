@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/centralaasia/static/css/main.8f35c4f7.css",
+    "main.js": "/centralaasia/static/js/main.e47b4fbb.js",
+    "static/media/backTwo.jpg": "/centralaasia/static/media/backTwo.cd62e687612aed2c7b5c.jpg",
+    "static/media/backFour.jpg": "/centralaasia/static/media/backFour.1c396510c297d573206b.jpg",
+    "static/media/china-three.jpg": "/centralaasia/static/media/china-three.81f53b4766526f54e430.jpg",
+    "static/media/backThree.jpg": "/centralaasia/static/media/backThree.8ddae079bb9d86533345.jpg",
+    "static/media/china-banner.jpg": "/centralaasia/static/media/china-banner.f90dc484cbb4d087c7d4.jpg",
+    "static/media/china-one.jpg": "/centralaasia/static/media/china-one.f6339781712b9079919e.jpg",
+    "static/media/japan-two.jpg": "/centralaasia/static/media/japan-two.bef9d1b07001b23650c8.jpg",
+    "static/media/china-two.jpg": "/centralaasia/static/media/china-two.5042403fbd85e05904e7.jpg",
+    "static/media/japan-banner.jpg": "/centralaasia/static/media/japan-banner.dc443e5b598765f32a98.jpg",
+    "static/media/japan-one.jpg": "/centralaasia/static/media/japan-one.9f5c6abee0030f5724ce.jpg",
+    "static/media/india-three.jpg": "/centralaasia/static/media/india-three.e96566b97a1c417d31b1.jpg",
+    "static/media/china-card.jpg": "/centralaasia/static/media/china-card.e96b04fea507a70217ca.jpg",
+    "static/media/india-card.jpg": "/centralaasia/static/media/india-card.961214431c95c00c9219.jpg",
+    "static/media/india-one.jpg": "/centralaasia/static/media/india-one.c110a0fa8598ab5d505c.jpg",
+    "static/media/map.png": "/centralaasia/static/media/map.d3bbc54aaeef0fae3f81.png",
+    "static/media/japan-card.jpg": "/centralaasia/static/media/japan-card.2540a2078bd0ccf9e8fb.jpg",
+    "static/media/instagram.svg": "/centralaasia/static/media/instagram.a0ad09e89f1a55387ef1c0ebb35e3a4f.svg",
+    "static/media/whatsapp.svg": "/centralaasia/static/media/whatsapp.0ae4ffe6d3d2dc6f8570637e109ccb89.svg",
+    "index.html": "/centralaasia/index.html",
+    "main.8f35c4f7.css.map": "/centralaasia/static/css/main.8f35c4f7.css.map",
+    "main.e47b4fbb.js.map": "/centralaasia/static/js/main.e47b4fbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f35c4f7.css",
+    "static/js/main.e47b4fbb.js"
+  ]
+}
